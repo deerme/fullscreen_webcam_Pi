@@ -1,4 +1,4 @@
-This software is a proob of concept of webcam to full screen display into raspberry pi
+This software is a proof of concept of webcam to full screen display into raspberry pi
 now is ussing opencv for take a picture from the webcam, is not the best, is better to use v4l for this, I think I will post tis in the future. Juan Andr√s. Chile.
 
 requirement:
